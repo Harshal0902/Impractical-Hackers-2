@@ -2,7 +2,7 @@
 
 ## 💡 Inspiration
 
-We all have herd about various wonders of the world. But there are some weird things happening around the world. But we never get to know the reason behind it. So we decided to make a website where we can find out the reason behind these weird things. Along with the we also have some wierd features as well.
+We all have heard about various wonders of the world. But some weird things are happening around the world. But we never get to know the reason behind it. So we decided to make a website where we can find out the reason behind these weird things. Along with that, we have some impractical features as well.
 
 ## 💻 What it does
 
@@ -16,7 +16,7 @@ Our web app "World of Weird" is built with features:
 ## ⚙️ How we built it
 
 - Wix: For building the website
-- HTML, CSS, Js: For customizing the website
+- JavaScript: For customizing the website
 
 ## 🌐 Best Use of Velo by Wix
 
@@ -32,8 +32,9 @@ I have to build a website using Velo by Wix. Wix Velo is a full-stack developmen
 
 We are using GitHub for the following reasons:
 
-- **Setting up the project**: GitHub makes it easy to set up a project and get started.
-- **GitHub Project**: For planning and keeping track of our project and its progress using GitHub projects.
+- **Collaboration**: GitHub makes it easy to share code with others and helps a lot in collaboration.
+- **GitHub Project**: We also used GitHub for planning and keeping track of our project and its progress with the help of the - GitHub project management tool.
+- **Using PRs and Issues**: We are doing multiple PRs and building multiple issues to keep on track of the project.
 
 ## 🧠 Challenges we ran into
 
